@@ -68,31 +68,31 @@
 
 ## Traceability
 
-*(Updated by roadmap — maps requirements to phases)*
+*(Updated by roadmap -- maps requirements to phases)*
 
-| Requirement | Phase |
-|-------------|-------|
-| FOUND-01 | — |
-| FOUND-02 | — |
-| FOUND-03 | — |
-| FOUND-04 | — |
-| FOUND-05 | — |
-| DATA-01 | — |
-| DATA-02 | — |
-| DATA-03 | — |
-| DATA-04 | — |
-| PORT-01 | — |
-| PORT-02 | — |
-| PORT-03 | — |
-| PORT-04 | — |
-| PORT-05 | — |
-| PORT-06 | — |
-| PROMPT-01 | — |
-| PROMPT-02 | — |
-| PROMPT-03 | — |
-| OBS-01 | — |
-| OBS-02 | — |
-| SIG-01 | — |
+| Requirement | Phase | Status |
+|-------------|-------|--------|
+| FOUND-01 | Phase 1: Foundation | Pending |
+| FOUND-02 | Phase 1: Foundation | Pending |
+| FOUND-03 | Phase 1: Foundation | Pending |
+| FOUND-04 | Phase 1: Foundation | Pending |
+| FOUND-05 | Phase 4: Batch & Portfolio | Pending |
+| DATA-01 | Phase 2: Data Sources | Pending |
+| DATA-02 | Phase 2: Data Sources | Pending |
+| DATA-03 | Phase 2: Data Sources | Pending |
+| DATA-04 | Phase 2: Data Sources | Pending |
+| PORT-01 | Phase 1: Foundation | Pending |
+| PORT-02 | Phase 4: Batch & Portfolio | Pending |
+| PORT-03 | Phase 4: Batch & Portfolio | Pending |
+| PORT-04 | Phase 4: Batch & Portfolio | Pending |
+| PORT-05 | Phase 4: Batch & Portfolio | Pending |
+| PORT-06 | Phase 4: Batch & Portfolio | Pending |
+| PROMPT-01 | Phase 3: Prompt Engineering | Pending |
+| PROMPT-02 | Phase 3: Prompt Engineering | Pending |
+| PROMPT-03 | Phase 3: Prompt Engineering | Pending |
+| OBS-01 | Phase 5: Observability & Signals | Pending |
+| OBS-02 | Phase 5: Observability & Signals | Pending |
+| SIG-01 | Phase 5: Observability & Signals | Pending |
 
 ---
-*Last updated: 2026-04-04 after requirements definition*
+*Last updated: 2026-04-04 after roadmap creation*
